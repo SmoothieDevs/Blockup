@@ -1,6 +1,6 @@
 # Blockup
 
-![Capture d'écran du jeu](Blockup.png)
+![Capture d'écran du jeu](Blockup.jpg)
 
 ## Description
 Ce projet est un jeu vidéo développé avec Unreal Engine 5. Il s'agit d'un jeu de plateforme et d'énigmes en 3D où le joueur incarne un personnage qui doit surmonter des obstacles et résoudre des énigmes pour atteindre la fin de chaque niveau.
