@@ -15,6 +15,7 @@ Ce document fournit des instructions détaillées pour cloner le projet github e
 
 ## Exécution du Jeu
 
-1. Naviguer dans le dossier du jeu pour trouver le fichier exécutable .exe
-2. Lancez le jeu en double cliquant sur le fichier exécutable .exe
-3. Profitez du jeu et vérifiez que toutes les fonctionnalités sont accessibles et fonctionnent comme prévu.
+1. Aller sur le lien suivant et téléchargé le .zip, puis extraire les fichiers du .zip
+2. Naviguer dans le dossier du jeu pour trouver le fichier exécutable .exe
+3. Lancez le jeu en double cliquant sur le fichier exécutable .exe
+4. Profitez du jeu et vérifiez que toutes les fonctionnalités sont accessibles et fonctionnent comme prévu.
